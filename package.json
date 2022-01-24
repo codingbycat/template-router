@@ -1,7 +1,9 @@
 {
-  "name": "template-router",
+  "name": "{{projectName}}",
   "version": "0.1.0",
-  "private": true,
+  "description": "{{description}}",
+  "author": "{{author}}",
+  "license": "ISC",
   "dependencies": {
     "@craco/craco": "^6.4.3",
     "@testing-library/jest-dom": "^5.14.1",
